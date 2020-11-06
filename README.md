@@ -10,8 +10,3 @@ The text of this specification is licensed under a
 However, the use of this spec in products and code is entirely free:
 there are no royalties, restrictions, or requirements.
 
-
-## Authors
-
- * Dan "Ducky" Little
- * Ian Schneider
